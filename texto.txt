@@ -1,1 +1,1 @@
-hola esta es una prueba inicial de git
+priemr cambio de este articulo que  dice "hola esta es una prueba inicial de git"
